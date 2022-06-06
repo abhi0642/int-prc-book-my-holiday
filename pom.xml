@@ -115,7 +115,7 @@
 		</dependency>
 		<dependency>
                         <groupId>c22665d2-ec5e-4c7b-998a-8ac6fec8a5fd</groupId>
-                        <artifactId>prc-book-my-holiday</artifactId>
+                        <artifactId>int-prc-book-my-holiday</artifactId>
                         <version>1.0.2</version>
                         <classifier>raml</classifier>
                         <type>zip</type>
