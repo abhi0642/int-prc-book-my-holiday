@@ -96,13 +96,13 @@
 			<classifier>mule-plugin</classifier>
 		</dependency>
 		<dependency>
-			<groupId>c22665d2-ec5e-4c7b-998a-8ac6fec8a5fd</groupId>
+			<groupId>4cc38576-1270-4d4d-8913-68607327c7a2</groupId>
 			<artifactId>mule-plugin-flights-indigo</artifactId>
 			<version>1.0.0</version>
 			<classifier>mule-plugin</classifier>
 		</dependency>
 		<dependency>
-			<groupId>c22665d2-ec5e-4c7b-998a-8ac6fec8a5fd</groupId>
+			<groupId>4cc38576-1270-4d4d-8913-68607327c7a2</groupId>
 			<artifactId>mule-plugin-cab-booking-api</artifactId>
 			<version>1.0.0</version>
 			<classifier>mule-plugin</classifier>
